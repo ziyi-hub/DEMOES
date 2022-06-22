@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "longitude": 6.1616104,
+    "latitude": 48.6835098,
+    "altitude": 20.0,
+    "description":
+        "L'Institut Universitaire de Technologie Nancy-Charlemagne (souvent abrégé en IUT Nancy-Charlemagne) est un IUT créé en 1967. Il est une composante de l'Université de Lorraine.",
+    "name": "Institut Universitaire de Technologie Nancy-Charlemagne",
+    "adresse": "2Ter Bd Charlemagne, 54000 Nancy",
+    "image": "https://drive.google.com/uc?export=view&id=1F75zAerMMdMGCSYFLjXjVZBHDERg6KYx",
+    "site": "http://iut-charlemagne.univ-lorraine.fr/",
+    "carousel": [
+      "https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+      "https://wallpaperaccess.com/full/2637581.jpg",
+      "https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "longitude": 6.1611247,
+    "latitude": 48.6651218,
+    "altitude": 20.0,
+    "description": "Établissement d'enseignement supérieur à Vandœuvre-lès-Nancy",
+    "name": "Faculté des Sciences et Technologies",
+    "adresse": "Campus, Bd des Aiguillettes, 54506 Vandœuvre-lès-Nancy",
+    "image": "https://drive.google.com/uc?export=view&id=1kF5MRQhgfc-Q0MQ-TDcJHlMBwlyJ2U-e",
+    "site": "http://fst.univ-lorraine.fr/",
+    "carousel": [
+      "https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+      "https://wallpaperaccess.com/full/2637581.jpg",
+      "https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "longitude": 6.1660106,
+    "latitude": 48.6956049, 
+    "altitude": 20.0,
+    "description": "Université à Nancy",
+    "name": "Campus Lettres et Sciences Humaines de Nancy - Université de Lorraine",
+    "adresse": "23 Bd Albert 1er, 54000 Nancy",
+    "image": "https://drive.google.com/uc?export=view&id=1LvTk24Aq-5vXLVXl6Nxx7TvaNauu5a53",
+    "site": "http://campus-lettres.univ-lorraine.fr/",
+    "carousel": [
+      "https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+      "https://wallpaperaccess.com/full/2637581.jpg",
+      "https://uhdwallpapers.org/uploads/converted/20/01/14/the-mandalorian-5k-1920x1080_477555-mm-90.jpg"
+    ]
+  }
+]
